@@ -6,5 +6,5 @@ provider "aws" {
 
 #creating the s3 bucket..
 resource "aws_s3_bucket" "bucket" {
-  bucket = "my-unique-bucket-name-murali-302"
+  bucket = "my-unique-bucket-name-murali-30202"
 }
